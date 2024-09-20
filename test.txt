@@ -1,0 +1,7 @@
+mysql://
+bb925c3ad21d89
+:
+ca24d9e0
+@eu-cluster-west-01.k8s.cleardb.net/
+heroku_735170c87d3266a
+?reconnect=true
